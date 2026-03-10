@@ -5,7 +5,7 @@ x=a+b
 #doing substraction now
 <<<<<<< HEAD
 # doing division
-X=a/b
+# X=a/b
 =======
 addeda logic for substraction
 x=a-b;
@@ -14,3 +14,8 @@ x=a-b;
 
  doing multiplication
 x =a*b
+
+Hi i am doing percentage
+x=a%b
+doing vaddi calculations
+
