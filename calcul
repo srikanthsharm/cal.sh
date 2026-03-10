@@ -3,6 +3,11 @@ x=a+b
 #trying to subtraction
 #
 #doing substraction now
+<<<<<<< HEAD
 # doing division
 X=a/b
+=======
+addeda logic for substraction
+x=a-b;
+>>>>>>> sub
 
